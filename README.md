@@ -1,4 +1,4 @@
-<h1 align="center"> Landing Page - Sekiro </h1>
+<h1 align="center"> Landing Page - PersoCanecas </h1>
 
 <p align="left">
 Site para atividade prática do Instituto Proa! É uma versão modificada de um tutorial First WebPage, o qual tinha intenção de criar uma pagina landing page, ensinando como dar seus primeiros passos. <br/> Decidi recriar esse site com a temática de venda de canecas personalizadas, e incrementar o tutorial adicionando responsividade à página. 
